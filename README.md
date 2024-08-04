@@ -112,11 +112,11 @@ create_new_question_input()
 
 ### Initial Interface
 
-![Initial Interface](initial_screenshot.png)
+![Initial Interface](Input.png)
 
 ### After Asking a Question
 
-![After Asking a Question](after_asking_screenshot.png)
+![After Asking a Question](Output.png)
 
 
 
