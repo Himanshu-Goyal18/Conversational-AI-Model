@@ -118,7 +118,15 @@ create_new_question_input()
 
 ![After Asking a Question](Output.png)
 
-
+## Citation
+Research paper used:
+```
+author = Radford, Alec and Wu, Jeffrey and Child, Rewon and Luan, David and Amodei, Dario and Sutskever, Ilya
+title = Language Models are Unsupervised Multitask Learners
+journal = arXiv preprint arXiv:1905.09757
+year = 2019
+url = https://arxiv.org/abs/1905.09757
+```
 
 
 
